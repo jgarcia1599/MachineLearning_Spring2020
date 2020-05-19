@@ -1,0 +1,4 @@
+secrets/
+
+# Ignore Mac system files
+**/.DS_Store
